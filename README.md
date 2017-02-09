@@ -1,0 +1,2 @@
+# azgitblog
+my git blog
