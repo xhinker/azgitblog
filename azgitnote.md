@@ -1,9 +1,11 @@
 # My Git note  
 
 1. Clone
+
 >git clone <url>
 
 2. Git init
+
 >git init
 
 3. add change
@@ -20,4 +22,7 @@
 
 6. push to server
 >git push -u origin master
+
+7. save password
+>git config --global credential.helper 'cache --timeout=3600'
 
