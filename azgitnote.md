@@ -1,4 +1,5 @@
-#My Git note
+# My Git note  
+
 1. Clone
 >git clone <url>
 

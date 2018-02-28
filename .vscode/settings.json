@@ -1,0 +1,4 @@
+{
+    "git.enableSmartCommit": true,
+    "files.autoSave":"afterDelay"
+}
