@@ -1,10 +1,4 @@
-# azgitblog
-my git blog
-haha is my update,save it 
+# AZ github 博客
 
+## 前言
 
-test test
-
-another test
-
-upload
